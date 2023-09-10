@@ -1,2 +1,2 @@
 # SIA
-Sun'iy intellekt asoslari fanidan materillar joylab boriladi
+Sun'iy intellekt asoslari fanidan materiallar joylab boriladi
